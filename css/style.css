@@ -1,0 +1,19 @@
+html {
+
+}
+
+body {
+  text-align: center;
+  line-height: 1.5;
+  font-size: 1.6rem;
+}
+
+h1 {
+  font-size: 3.9rem;
+}
+@media (max-width: 460px) {
+  h1 {
+    line-height: 1.2;
+    font-size: 3.5rem;
+  }
+}
