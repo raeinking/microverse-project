@@ -3,10 +3,10 @@
     margin: 0;
     box-sizing: border-box;
 }
-.main {
+main {
     width: 100%;
     background-color:rgba(131, 131, 131, 0.205);
-    border-radius: 5px;
+    border-radius: 10px;
     height: 95%;
 }
 
