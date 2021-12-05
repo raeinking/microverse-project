@@ -8,6 +8,7 @@ main {
     background-color:rgba(131, 131, 131, 0.205);
     border-radius: 10px;
     height: 95%;
+    margin:2rem 0;
 }
 
 .container2 {
